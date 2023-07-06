@@ -6,7 +6,7 @@
  * a mod_rewrite to a single php file (usually index.php).  Anyway, it will take nicely formatted
  * URLs and split them apart by "/". You can then proceed to get whichever part of the url you want
  *
- * @author: Chris Tooley <***REMOVED***>
+ * @author: Chris Tooley
  * @
  */
 

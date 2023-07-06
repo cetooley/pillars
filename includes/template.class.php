@@ -5,7 +5,7 @@
  *
  * This is a basic templating class which I use pretty much everywhere. It's lightweight if you use it properly.
  *
- * @author Chris Tooley <***REMOVED***>
+ * @author Chris Tooley
  */
 
 class Template {
